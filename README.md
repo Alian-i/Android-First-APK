@@ -3,4 +3,5 @@ This is my first application on `Android Studio`. In this I have done some basic
 
 ----
 <div align="center"><h3>Screenshorts</h3></div>
-![alt text](https://drive.google.com/file/d/1Dhf0-lcHFWP2g3n8wyD05WRW10mlYWMF/view?usp=sharing)
+
+![alt text](https://github.com/Akshay01-M/Android-First-APK/blob/b2c18a341a126c3e4f52fc4e194fb7c6a6b53771/ReadmeFiles/project1st.jpeg)
